@@ -6,7 +6,7 @@ Decode FormData payload with wrong encoding in devtools network panel.
 
 ## Issues
 
-Firefox: [Bugzilaa](https://bugzilla.mozilla.org/show_bug.cgi?id=2034306)
+Firefox: [Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=2034306)
 
 ## Reproduce
 
