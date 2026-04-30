@@ -7,7 +7,7 @@ Paste selection from Office Word to web page, and JS `ClipboardEvent` will be tr
 
 ## Issues
 
-Firefox: [Bugzilaa](https://bugzilla.mozilla.org/show_bug.cgi?id=1887849)
+Firefox: [Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1887849)
 
 Chrome: [Chromium issues](https://issues.chromium.org/issues/331316067)
 
